@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ISERI NINAs"
+title: "ISERI NINA"
 author_profile: true
 redirect_from: 
   - /about/
