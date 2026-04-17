@@ -5,9 +5,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Spring Seminar in Abstract Algebra<br />Minhang Campus, East China Normal University; Room 207, Building 4",
+    41.0865924,
+    -73.8056537
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
